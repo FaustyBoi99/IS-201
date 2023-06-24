@@ -1,0 +1,27 @@
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+#begin{
+    width: 1000px;
+    border: 15px solid green;
+    padding: 20px;
+    margin-left: 178px;
+    text-align: center;
+}
+
+.head{
+    text-align: center;
+    text-decoration: underline;
+}
+
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+img{
+    width: 350px;
+    height: 450px;
+    float: right;
+}
